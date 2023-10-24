@@ -33,3 +33,9 @@ Follow these steps to get College Tunes up and running on your local machine:
    cd college-tunes
 3. Open the index.html file in your favorite web browser.
 That's it! You should now be able to start making music and animations with College Tunes.
+
+## Usage
+
+1. Keyboard Controls: Press various keys on your keyboard to trigger different sounds. Experiment with different combinations to create your own tunes.
+2. Mouse Clicks: Click on the screen to generate animations synchronized with the sounds.
+3. Customization: You can customize the sounds and animations by modifying the HTML, CSS, and JavaScript files in the project directory.
