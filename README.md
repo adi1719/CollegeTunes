@@ -28,3 +28,8 @@ Follow these steps to get College Tunes up and running on your local machine:
 
    ```bash
    git clone https://github.com/yourusername/college-tunes.git
+2. Navigate to the project directory:
+   ```bash
+   cd college-tunes
+3. Open the index.html file in your favorite web browser.
+That's it! You should now be able to start making music and animations with College Tunes.
